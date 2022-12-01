@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ouhell
+- 👋 Hi, I’m oussama
 - 👀 I’m interested in learning web developement
-- 🌱 I’m currently learning springboot and react
+- 🌱 I’m currently learning springboot, node js and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
