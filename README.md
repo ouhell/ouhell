@@ -1,6 +1,6 @@
 - 👋 Hi, I’m oussama
 - 👀 I’m interested in learning full stack developement
-- 🌱 I’m currently learning  Expressjs and Nextjs
+- 🌱 I’m currently learning Rust , Express-js and Next-js
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me { email : hamida.oussama@outlook.com }
 
